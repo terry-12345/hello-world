@@ -1,5 +1,5 @@
 # hello-world
-First time to join in github!
+First time to join in GitHub!
 
 Hi GitHub,
 I am glad to know you!
